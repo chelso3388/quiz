@@ -5,3 +5,9 @@
 #fantasy, #mystery, #comic {
   display: none;
 };
+
+
+header {
+  background: blue;
+  padding: 20px;
+}
